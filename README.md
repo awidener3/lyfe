@@ -1,14 +1,17 @@
-# 🍃 Lyfe
+<p align="center">
+  <img src="./assets/logo-white.png" style="">
+</p>
+
+
 
 📌[Link to Deployed Application](https://lyfe22.herokuapp.com/)
 
 ## Table of Contents
-- [🍃 Lyfe](#-lyfe)
-  - [Table of Contents](#table-of-contents)
-  - [🔎 Overview](#-overview)
-  - [💻 Technologies](#-technologies)
-  - [🎨 Preview](#-preview)
-  - [📝 Wireframe](#-wireframe)
+- [Table of Contents](#table-of-contents)
+- [🔎 Overview](#-overview)
+- [💻 Technologies](#-technologies)
+- [🎨 Preview](#-preview)
+- [📝 Wireframe](#-wireframe)
 
 ## 🔎 Overview
 Lyfe is a lifestyle tracker, allowing a user to track daily habits to lead towards a better life. The four main components of the Lyfe application are: Exercise, Mindfulness, Nutrition and Water. This four pillars will help you feel better and motivated to conquer every day life.
